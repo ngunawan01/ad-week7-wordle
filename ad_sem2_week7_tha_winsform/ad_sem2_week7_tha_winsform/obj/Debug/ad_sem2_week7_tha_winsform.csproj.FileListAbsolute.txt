@@ -1,0 +1,13 @@
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\bin\Debug\ad_sem2_week7_tha_winsform.exe.config
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\bin\Debug\ad_sem2_week7_tha_winsform.exe
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\bin\Debug\ad_sem2_week7_tha_winsform.pdb
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.csproj.AssemblyReference.cache
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.csproj.SuggestedBindingRedirects.cache
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.Form1.resources
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.Form2.resources
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.Properties.Resources.resources
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.csproj.GenerateResource.cache
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.csproj.CoreCompileInputs.cache
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.exe
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.pdb
+D:\UC\MATKUL\SEMESTER 2\Application Development\TUGAS\ad_sem2_week7_tha_winsform\ad_sem2_week7_tha_winsform\obj\Debug\ad_sem2_week7_tha_winsform.Form3.resources
